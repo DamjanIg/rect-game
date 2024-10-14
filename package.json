@@ -1,0 +1,14 @@
+{
+  "name": "rect-game",
+  "version": "1.0.0",
+  "description": "rect-game",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Damjan Ignjatic",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.12.0"
+  }
+}
